@@ -1,0 +1,14 @@
+C:\Users\Public\Documents\myWorkSpaceYD\final_project\core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Public\Documents\myWorkSpaceYD\final_project\core\bin\Debug\net8.0\Core.runtimeconfig.json
+C:\Users\Public\Documents\myWorkSpaceYD\final_project\core\bin\Debug\net8.0\Core.dll
+C:\Users\Public\Documents\myWorkSpaceYD\final_project\core\bin\Debug\net8.0\Core.pdb
+C:\Users\Public\Documents\myWorkSpaceYD\final_project\core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\myWorkSpaceYD\final_project\core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\myWorkSpaceYD\final_project\core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\myWorkSpaceYD\final_project\core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Public\Documents\myWorkSpaceYD\final_project\core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\myWorkSpaceYD\final_project\core\obj\Debug\net8.0\Core.dll
+C:\Users\Public\Documents\myWorkSpaceYD\final_project\core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Public\Documents\myWorkSpaceYD\final_project\core\obj\Debug\net8.0\Core.pdb
+C:\Users\Public\Documents\myWorkSpaceYD\final_project\core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+C:\Users\Public\Documents\myWorkSpaceYD\final_project\core\obj\Debug\net8.0\ref\Core.dll

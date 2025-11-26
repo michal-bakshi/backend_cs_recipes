@@ -1,0 +1,545 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\webapi\\controllers\\uerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|solutionrelative:controllers\\uerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DD02C-B60D-4DAB-B7DF-B3B58E2AC5BA}|..\\Data\\Data.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\data\\reposetories\\userreposetory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\webapi\\controllers\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|solutionrelative:controllers\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\webapi\\controllers\\ingredientsforrecipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|solutionrelative:controllers\\ingredientsforrecipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DD02C-B60D-4DAB-B7DF-B3B58E2AC5BA}|..\\Data\\Data.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\data\\reposetories\\recipereposetory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DD02C-B60D-4DAB-B7DF-B3B58E2AC5BA}|..\\Data\\Data.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\data\\reposetories\\ingredientsforrecipereposetory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DD02C-B60D-4DAB-B7DF-B3B58E2AC5BA}|..\\Data\\Data.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE7225-A675-40D9-8D00-BDD42CEAAC29}|..\\service\\Service.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\service\\ingredientsforrecipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B5D691-BD38-4C3D-9B92-D87A2F95697D}|..\\core\\Core.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\core\\entities\\ingredientsforrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B5D691-BD38-4C3D-9B92-D87A2F95697D}|..\\core\\Core.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\core\\reposetories\\iingredientsforrecipereposetory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B5D691-BD38-4C3D-9B92-D87A2F95697D}|..\\core\\Core.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\core\\services\\iingredientsforrecipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\webapi\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|solutionrelative:controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DD02C-B60D-4DAB-B7DF-B3B58E2AC5BA}|..\\Data\\Data.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\data\\reposetories\\ingredientreposetory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\webapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|solutionrelative:controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B5D691-BD38-4C3D-9B92-D87A2F95697D}|..\\core\\Core.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\core\\entities\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DD02C-B60D-4DAB-B7DF-B3B58E2AC5BA}|..\\Data\\Data.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B5D691-BD38-4C3D-9B92-D87A2F95697D}|..\\core\\Core.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\core\\reposetories\\irecipereposetory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B5D691-BD38-4C3D-9B92-D87A2F95697D}|..\\core\\Core.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\core\\services\\irecipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B5D691-BD38-4C3D-9B92-D87A2F95697D}|..\\core\\Core.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\core\\reposetories\\iingredientsreposetory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B5D691-BD38-4C3D-9B92-D87A2F95697D}|..\\core\\Core.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE7225-A675-40D9-8D00-BDD42CEAAC29}|..\\service\\Service.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\service\\usersevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E733A4DC-3E0B-4BB8-AEE5-43F48E3F62C0}|Webapi.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B5D691-BD38-4C3D-9B92-D87A2F95697D}|..\\core\\Core.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\core\\entities\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B5D691-BD38-4C3D-9B92-D87A2F95697D}|..\\core\\Core.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\core\\reposetories\\iuserreposetory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE7225-A675-40D9-8D00-BDD42CEAAC29}|..\\service\\Service.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\service\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B5D691-BD38-4C3D-9B92-D87A2F95697D}|..\\core\\Core.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\core\\services\\iingredientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE7225-A675-40D9-8D00-BDD42CEAAC29}|..\\service\\Service.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\service\\ingredientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B5D691-BD38-4C3D-9B92-D87A2F95697D}|..\\core\\Core.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE7225-A675-40D9-8D00-BDD42CEAAC29}|..\\service\\Service.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B5D691-BD38-4C3D-9B92-D87A2F95697D}|..\\core\\Core.csproj|c:\\users\\public\\documents\\myworkspaceyd\\final_project\\core\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:39:48.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:50:51.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Entities\\User.cs",
+              "RelativeToolTip": "..\\core\\Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:39:34.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:54:37.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IngredientsForRecipeController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\Controllers\\IngredientsForRecipeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IngredientsForRecipeController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\Controllers\\IngredientsForRecipeController.cs",
+              "RelativeToolTip": "Controllers\\IngredientsForRecipeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:54:18.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IngredientsForRecipeService.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\service\\IngredientsForRecipeService.cs",
+              "RelativeDocumentMoniker": "..\\service\\IngredientsForRecipeService.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\service\\IngredientsForRecipeService.cs",
+              "RelativeToolTip": "..\\service\\IngredientsForRecipeService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA9wBkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:53:01.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IngredientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\Controllers\\IngredientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IngredientsController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\Controllers\\IngredientsController.cs",
+              "RelativeToolTip": "Controllers\\IngredientsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:51:58.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RecipeController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\Controllers\\RecipeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecipeController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\Controllers\\RecipeController.cs",
+              "RelativeToolTip": "Controllers\\RecipeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwBgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:51:26.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UersController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\Controllers\\UersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UersController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\Controllers\\UersController.cs",
+              "RelativeToolTip": "Controllers\\UersController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:50:59.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IngredientsService.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\service\\IngredientsService.cs",
+              "RelativeDocumentMoniker": "..\\service\\IngredientsService.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\service\\IngredientsService.cs",
+              "RelativeToolTip": "..\\service\\IngredientsService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:34:44.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RecipeService.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\service\\RecipeService.cs",
+              "RelativeDocumentMoniker": "..\\service\\RecipeService.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\service\\RecipeService.cs",
+              "RelativeToolTip": "..\\service\\RecipeService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:31:28.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Entities\\Ingredient.cs",
+              "RelativeDocumentMoniker": "..\\core\\Entities\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Entities\\Ingredient.cs",
+              "RelativeToolTip": "..\\core\\Entities\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:44:28.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Entities\\Recipe.cs",
+              "RelativeDocumentMoniker": "..\\core\\Entities\\Recipe.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Entities\\Recipe.cs",
+              "RelativeToolTip": "..\\core\\Entities\\Recipe.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAASwBkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:43:06.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IngredientsForRecipe.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Entities\\IngredientsForRecipe.cs",
+              "RelativeDocumentMoniker": "..\\core\\Entities\\IngredientsForRecipe.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Entities\\IngredientsForRecipe.cs",
+              "RelativeToolTip": "..\\core\\Entities\\IngredientsForRecipe.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:28:53.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IngredientsForRecipeReposetory.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Data\\Reposetories\\IngredientsForRecipeReposetory.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Reposetories\\IngredientsForRecipeReposetory.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Data\\Reposetories\\IngredientsForRecipeReposetory.cs",
+              "RelativeToolTip": "..\\Data\\Reposetories\\IngredientsForRecipeReposetory.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:16:59.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IngredientReposetory.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Data\\Reposetories\\IngredientReposetory.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Reposetories\\IngredientReposetory.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Data\\Reposetories\\IngredientReposetory.cs",
+              "RelativeToolTip": "..\\Data\\Reposetories\\IngredientReposetory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:06:14.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecipeReposetory.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Data\\Reposetories\\RecipeReposetory.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Reposetories\\RecipeReposetory.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Data\\Reposetories\\RecipeReposetory.cs",
+              "RelativeToolTip": "..\\Data\\Reposetories\\RecipeReposetory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:49:53.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserReposetory.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Data\\Reposetories\\UserReposetory.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Reposetories\\UserReposetory.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Data\\Reposetories\\UserReposetory.cs",
+              "RelativeToolTip": "..\\Data\\Reposetories\\UserReposetory.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:42:08.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserSevice.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\service\\UserSevice.cs",
+              "RelativeDocumentMoniker": "..\\service\\UserSevice.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\service\\UserSevice.cs",
+              "RelativeToolTip": "..\\service\\UserSevice.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:32:52.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IIngredientsForRecipeService.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Services\\IIngredientsForRecipeService.cs",
+              "RelativeDocumentMoniker": "..\\core\\Services\\IIngredientsForRecipeService.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Services\\IIngredientsForRecipeService.cs",
+              "RelativeToolTip": "..\\core\\Services\\IIngredientsForRecipeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:12:12.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IIngredientsService.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Services\\IIngredientsService.cs",
+              "RelativeDocumentMoniker": "..\\core\\Services\\IIngredientsService.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Services\\IIngredientsService.cs",
+              "RelativeToolTip": "..\\core\\Services\\IIngredientsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:11:53.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRecipeService.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Services\\IRecipeService.cs",
+              "RelativeDocumentMoniker": "..\\core\\Services\\IRecipeService.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Services\\IRecipeService.cs",
+              "RelativeToolTip": "..\\core\\Services\\IRecipeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:11:33.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\core\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Services\\IUserService.cs",
+              "RelativeToolTip": "..\\core\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:11:01.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IIngredientsForRecipeReposetory.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Reposetories\\IIngredientsForRecipeReposetory.cs",
+              "RelativeDocumentMoniker": "..\\core\\Reposetories\\IIngredientsForRecipeReposetory.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Reposetories\\IIngredientsForRecipeReposetory.cs",
+              "RelativeToolTip": "..\\core\\Reposetories\\IIngredientsForRecipeReposetory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:09:47.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IIngredientsReposetory.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Reposetories\\IIngredientsReposetory.cs",
+              "RelativeDocumentMoniker": "..\\core\\Reposetories\\IIngredientsReposetory.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Reposetories\\IIngredientsReposetory.cs",
+              "RelativeToolTip": "..\\core\\Reposetories\\IIngredientsReposetory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:09:11.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRecipereposetory.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Reposetories\\IRecipereposetory.cs",
+              "RelativeDocumentMoniker": "..\\core\\Reposetories\\IRecipereposetory.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Reposetories\\IRecipereposetory.cs",
+              "RelativeToolTip": "..\\core\\Reposetories\\IRecipereposetory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:08:33.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserReposetory.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Reposetories\\IUserReposetory.cs",
+              "RelativeDocumentMoniker": "..\\core\\Reposetories\\IUserReposetory.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Reposetories\\IUserReposetory.cs",
+              "RelativeToolTip": "..\\core\\Reposetories\\IUserReposetory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:07:54.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "..\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Data\\DataContext.cs",
+              "RelativeToolTip": "..\\Data\\DataContext.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv14AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:57:01.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:52:44.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\service\\Service.csproj",
+              "RelativeDocumentMoniker": "..\\service\\Service.csproj",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\service\\Service.csproj",
+              "RelativeToolTip": "..\\service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T22:37:10.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "..\\Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Data\\Data.csproj",
+              "RelativeToolTip": "..\\Data\\Data.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T22:36:53.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\Webapi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T22:24:02.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Core.csproj",
+              "RelativeDocumentMoniker": "..\\core\\Core.csproj",
+              "ToolTip": "C:\\Users\\Public\\Documents\\myWorkSpaceYD\\final_project\\core\\Core.csproj",
+              "RelativeToolTip": "..\\core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T20:30:39.684Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
