@@ -55,7 +55,7 @@ app.UseStaticFiles(new StaticFileOptions
     RequestPath = "/Images"
 });
 
-// Configure the HTTP request pipeline.
+// Configure the HTTPS request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
