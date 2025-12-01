@@ -4,7 +4,7 @@ This repository contains the C# backend for a recipe sharing platform. It is bui
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
@@ -57,7 +57,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ---
 
-## 🧱 Architecture Overview
+## Architecture Overview
 
 The project is structured into three main layers, following the principles of **Separation of Concerns**:
 
