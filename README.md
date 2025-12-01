@@ -77,7 +77,7 @@ The project is structured into three main layers, following the principles of **
 
 ### 4. Web API (`Webapi` project)
 
-* **Controllers:** Acts as the entry point for HTTP requests. It routes requests to the appropriate services and returns HTTP responses. Examples: `RecipeController.cs`, `UersController.cs`.
+* **Controllers:** Acts as the entry point for HTTPS requests. It routes requests to the appropriate services and returns HTTPS responses. Examples: `RecipeController.cs`, `UersController.cs`.
 * **Dependency Injection (DI):** Configured in `Program.cs` to manage the lifetime of services and repositories.
 
 ---
